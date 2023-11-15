@@ -97,6 +97,7 @@ function generatePassword() {
   }
   console.log(push)
   
+  //Helps create a password with a random string using the new array
   let pass = ""
   let i = 0
   while (i < choice.length) {
