@@ -35,3 +35,8 @@ git clone git@github.com:DecodePlaymaker/shazam.git
 ![img](./images/password.png)
 
 ## Deployed Application
+* Live URL: https://decodeplaymaker.github.io/shazam/
+
+## Resource
+use webpages like mdn web docs to help me better under stand javascript.
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
